@@ -1,1 +1,2 @@
 Верстка из psd шаблона на чистом html и css.
+Страница лендинга доступна по адресу https://lebedinska123.github.io/GoldenPage/
